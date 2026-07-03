@@ -106,7 +106,7 @@ class Sammy:
 
 ## 🤖 AI Cancer Diagnostic
 
-<img src="assets/projects/ai-cancer.png">
+<img src="Screenshot 2026-07-03 132121.png">
 
 AI-powered breast cancer diagnosis system using Machine Learning.
 
@@ -114,7 +114,7 @@ AI-powered breast cancer diagnosis system using Machine Learning.
 
 ## 🥗 Smart Diet Recommendation
 
-<img src="assets/projects/smart-diet.png">
+<img src="Screenshot 2026-07-03 132143.png">
 
 A personalized AI-powered diet recommendation platform.
 
@@ -122,7 +122,7 @@ A personalized AI-powered diet recommendation platform.
 
 ## 🎨 ToonLab AI
 
-<img src="assets/projects/toonlab.png">
+<img src="Screenshot 2026-07-03 133009.png">
 
 AI-powered image transformation application.
 
@@ -130,27 +130,21 @@ AI-powered image transformation application.
 
 ## 🏫 NSChE FUTMINNA Website
 
-<img src="assets/projects/nsche.png">
+<img src="Screenshot 2026-07-03 133801.png">
 
 A complete departmental website developed with Django.
 
 ---
 
-## 🤝 Cooperative Management System
 
-<img src="assets/projects/cooperative.png">
-
-A digital cooperative platform for savings, loans, and administration.
-
----
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sammy001-cmd&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammy001-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -160,7 +154,7 @@ A digital cooperative platform for savings, loans, and administration.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=sammy001-cmd&theme=tokyonight&hide_border=true">
 
 </p>
 
@@ -170,7 +164,7 @@ A digital cooperative platform for savings, loans, and administration.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=sammy001-cmd&theme=tokyonight&no-frame=true&column=4">
 
 </p>
 
@@ -180,7 +174,7 @@ A digital cooperative platform for savings, loans, and administration.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sammy001-cmd&theme=tokyo-night&hide_border=true">
 
 </p>
 
@@ -211,7 +205,7 @@ A digital cooperative platform for savings, loans, and administration.
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sammy001-cmd">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -219,7 +213,7 @@ A digital cooperative platform for savings, loans, and administration.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samueltoluwani169@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
