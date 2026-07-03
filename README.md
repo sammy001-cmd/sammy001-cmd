@@ -18,7 +18,7 @@ I enjoy building intelligent software that solves real-world problems using Pyth
 <img src="https://img.shields.io/github/followers/sammy001-cmd?style=for-the-badge&logo=github">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=sammy001-cmd&style=for-the-badge">
 
 </p>
 
