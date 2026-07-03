@@ -1,54 +1,98 @@
-<h1 align="center">
-  Hi 👋, I'm Sammy
-</h1>
+<p align="center">
+  <img src="banner.png" width="100%" alt="Sammy Banner">
+</p>
+
+<h1 align="center">Hi 👋, I'm Sammy</h1>
 
 <h3 align="center">
-Python Developer • Django Developer • AI Enthusiast • Data Science Student
+Python Developer • Django Developer • AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-Building intelligent applications that solve real-world problems.
+I enjoy building intelligent software that solves real-world problems using Python, Django, Machine Learning, and Data Science.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sammy001-cmd">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨🏽‍💻 About Me
 
-- 🎓 Data Science student at **SQI College of ICT**
-- 💻 Passionate about Python, Django, Machine Learning, and AI
-- 🌱 Currently learning **Deep Learning**, **Cloud Deployment**, and **Web3**
-- 🔭 Working on AI-powered healthcare and productivity applications
-- 🎯 Goal: Build software that impacts millions of people
-- ⚡ Fun fact: I enjoy turning ideas into real products.
+```python
+class Sammy:
+
+    def __init__(self):
+
+        self.name = "Sammy"
+
+        self.role = [
+            "Python Developer",
+            "Django Developer",
+            "Machine Learning Enthusiast"
+        ]
+
+        self.current_projects = [
+            "AI Cancer Diagnostic",
+            "Smart Diet Recommendation",
+            "NSChE FUTMINNA Website",
+            "ToonLab AI"
+        ]
+
+        self.learning = [
+            "Deep Learning",
+            "Computer Vision",
+            "Cloud Deployment"
+        ]
+
+    def motto(self):
+        return "Create • Learn • Impact"
+```
 
 ---
 
-## 💼 Current Projects
-
-- 🤖 AI Cancer Diagnostic System
-- 🥗 Smart Diet Recommendation App
-- 🎨 ToonLab AI
-- 🏫 NSChE FUTMINNA Website
-- 🧾 Invoice Generator
-- 🤝 Cooperative Management System
-
----
-
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,mysql,postgres" />
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
+
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=django,flask"/>
+
 </p>
 
-### Data Science
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+### AI / Data Science
 
 - Pandas
 - NumPy
@@ -58,76 +102,112 @@ Building intelligent applications that solve real-world problems.
 
 ---
 
-## 📈 GitHub Stats
+# 🌟 Featured Projects
+
+## 🤖 AI Cancer Diagnostic
+
+<img src="assets/projects/ai-cancer.png">
+
+AI-powered breast cancer diagnosis system using Machine Learning.
+
+---
+
+## 🥗 Smart Diet Recommendation
+
+<img src="assets/projects/smart-diet.png">
+
+A personalized AI-powered diet recommendation platform.
+
+---
+
+## 🎨 ToonLab AI
+
+<img src="assets/projects/toonlab.png">
+
+AI-powered image transformation application.
+
+---
+
+## 🏫 NSChE FUTMINNA Website
+
+<img src="assets/projects/nsche.png">
+
+A complete departmental website developed with Django.
+
+---
+
+## 🤝 Cooperative Management System
+
+<img src="assets/projects/cooperative.png">
+
+A digital cooperative platform for savings, loans, and administration.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true">
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4">
 
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 📈 Activity Graph
 
-### 🤖 AI Cancer Diagnostic System
+<p align="center">
 
-AI-powered application for breast cancer diagnosis using machine learning.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true">
 
----
-
-### 🥗 Smart Diet Recommendation App
-
-Personalized meal recommendation system built with Python and Streamlit.
+</p>
 
 ---
 
-### 🏫 NSChE FUTMINNA Website
+# 🎯 Currently Working On
 
-Modern student association management platform built with Django.
-
----
-
-### 🤝 Cooperative Management System
-
-A complete digital cooperative management platform with loans, savings, and member management.
-
----
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Django REST Framework
-- Cloud Deployment
-- Docker
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Django Web Applications
+- ☁️ Cloud Deployment
+- 📊 Data Science
+- 🏗️ Building production-ready software
 
 ---
 
-## 🌍 Connect With Me
+# 🌱 2026 Goals
+
+- Build impactful AI products
+- Contribute to Open Source
+- Master Deep Learning
+- Become a Full-Stack AI Engineer
+- Collaborate on global software projects
+
+---
+
+# 📫 Connect With Me
 
 <p>
 
@@ -143,26 +223,24 @@ A complete digital cooperative management platform with loans, savings, and memb
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://sammy-studio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+</a>
+
 </p>
 
 ---
 
-## 📊 Profile Views
+# 💭 Quote
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
-## 💬 Favorite Quote
-
-> *"The best way to predict the future is to build it."*
+> *"I don't just write code. I build solutions that make a difference."*
 
 ---
 
-<h3 align="center">
+<p align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-Let's build something amazing together.
+If you enjoy my projects, consider giving them a ⭐ and following my journey.
 
-</h3>
+</p>
